@@ -1,9 +1,5 @@
 # Final Project - Open Flights
 
-### Group members:
-* rendyh2
-* archits2
-* pkim63
 
 # Location of Code And Major Data
 Our program is divided into 4 seperate .h and .cpp file where each file covers either: Graph making, BFS Traversal, Dijkstras Algorithm, Hierholzer's Euler path
